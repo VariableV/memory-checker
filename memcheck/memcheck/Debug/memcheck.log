@@ -1,7 +1,0 @@
-﻿  main.cpp
-c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
-c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
-c:\users\hussa\desktop\programming\c++\poc\memcheck\memcheck\segmentinfo.h(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
-  memcheck.vcxproj -> C:\Users\hussa\Desktop\Programming\C++\poc\memcheck\Debug\memcheck.exe
-  memcheck.vcxproj -> C:\Users\hussa\Desktop\Programming\C++\poc\memcheck\Debug\memcheck.pdb (Full PDB)
